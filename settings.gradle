@@ -1,2 +1,1 @@
 include ':app', ':grpc', ':BlueSTSDK'
-//project(':BlueSTSDK').projectDir = new File('BlueSTSDK')
